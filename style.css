@@ -24,13 +24,9 @@ h3 {
 }
 
 body {
-    background-color: black;
+    background-color: linear-gradient;
 }
 
 .img55 {
     width: 100px;
-}
-
-background {
-    color: linear-gradient;
 }

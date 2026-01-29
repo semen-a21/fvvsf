@@ -28,5 +28,10 @@ body {
 }
 
 .img55 {
-    width: 150px;
+    width: 100px;
+}
+
+.Zemla {
+    display: block;
+    margin: 0 auto;
 }
